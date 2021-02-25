@@ -18,6 +18,5 @@ https://mibr09.tistory.com/ : Tistory Blog
 https://blog.naver.com/byunjaewoo : Naver Blog
 ## 🏷️ Cards
 [![byunjaewoo's solvedac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=byunjaewoo)](https://solved.ac/profile/byunjaewoo) [![CodeForces Profile](http://cf.leed.at?id=jaewoo2009)](https://codeforces.com/profile/jaewoo2009)
-[!byunjaewoo's github stats](https://github-readme-stats.vercel.app/api?username=byunjaewoo&show_icons=true&hide_border=true)](https://github.com/byunjaewoo) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=byunjaewoo&layout=compact)](https://github.com/byunjaewoo)
 ## ⚡ Project
 * DS Developer of Wops! (A New Innovative language for PS)
