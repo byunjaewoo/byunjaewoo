@@ -15,6 +15,7 @@
 * Jungol: [jaewoo_2009](http://www.jungol.co.kr/theme/jungol/status.php?sca=&sop=and&fcode=&fid=jaewoo_2009&flang=0)
 ## 💬 Problem Solving Blog
 https://mibr09.tistory.com/ : Tistory Blog
+
 https://blog.naver.com/byunjaewoo : Naver Blog
 ## 🏷️ Cards
 [![byunjaewoo's solvedac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=byunjaewoo)](https://solved.ac/profile/byunjaewoo) [![CodeForces Profile](http://cf.leed.at?id=jaewoo2009)](https://codeforces.com/profile/jaewoo2009)
