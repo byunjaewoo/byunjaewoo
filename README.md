@@ -14,9 +14,8 @@
 * Atcoder: [jaewoo2009](https://atcoder.jp/users/jaewoo2009) [![](https://run.kaist.ac.kr/badges/atcoder/jaewoo2009.svg)](https://atcoder.jp/users/jaewoo2009)
 * Jungol: [jaewoo_2009](http://www.jungol.co.kr/theme/jungol/status.php?sca=&sop=and&fcode=&fid=jaewoo_2009&flang=0)
 ## 💬 Problem Solving Blog
-[Tistory Blog](https://mibr09.tistory.com/)
-
-[Naver Blog](https://blog.naver.com/byunjaewoo)
+* [Tistory Blog](https://mibr09.tistory.com/)
+* [Naver Blog](https://blog.naver.com/byunjaewoo)
 ## 🏷️ Cards
 [![byunjaewoo's solvedac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=byunjaewoo)](https://solved.ac/profile/byunjaewoo) [![CodeForces Profile](http://cf.leed.at?id=jaewoo2009)](https://codeforces.com/profile/jaewoo2009)
 ## ⚡ Project
