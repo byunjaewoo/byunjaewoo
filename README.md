@@ -21,3 +21,9 @@
 [![byunjaewoo's solvedac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=byunjaewoo)](https://solved.ac/profile/byunjaewoo) [![CodeForces Profile](http://cf.leed.at?id=jaewoo2009)](https://codeforces.com/profile/jaewoo2009)
 ## ⚡ Project
 * Major DS Developer of Wops! (A New Innovative language for PS)
+## 🏆 Awards
+* KOI 2018 Silver Award
+* ICT-AWARD KOREA 1st Place!
+* KOI 2019 Silver Award
+* KOI 2020 1st Place!
+* NYPC 2020 Bronze Award
