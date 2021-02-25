@@ -20,4 +20,4 @@
 ## 🏷️ Cards
 [![byunjaewoo's solvedac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=byunjaewoo)](https://solved.ac/profile/byunjaewoo) [![CodeForces Profile](http://cf.leed.at?id=jaewoo2009)](https://codeforces.com/profile/jaewoo2009)
 ## ⚡ Project
-* DS Developer of Wops! (A New Innovative language for PS)
+* Major DS Developer of Wops! (A New Innovative language for PS)
