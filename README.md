@@ -6,7 +6,7 @@
 
 * Jae Woo Byun
 * Elementary School 6th Grade Student
-* C++17, Python6 Programmer
+* C++17, Python3 Programmer
 ## 💻 Online Judge
 * BOJ: [byunjaewoo](http://icpc.me/byunjaewoo)
 * solvedac: [byunjaewoo](https://solved.ac/profile/byunjaewoo)
