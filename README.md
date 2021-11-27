@@ -14,7 +14,7 @@
 * Atcoder: [jaewoo2009](https://atcoder.jp/users/jaewoo2009) [![](https://run.kaist.ac.kr/badges/atcoder/jaewoo2009.svg)](https://atcoder.jp/users/jaewoo2009)
 * Jungol: [jaewoo_2009](http://www.jungol.co.kr/theme/jungol/status.php?sca=&sop=and&fcode=&fid=jaewoo_2009&flang=0)
 ## 💬 Problem Solving Blog
-* [Tistory Blog](https://mibr09.tistory.com/)
+* [Tistory Blog](https://byunjaewoo.tistory.com/)
 * [Naver Blog](https://blog.naver.com/byunjaewoo)
 ## 🏷️ Cards
 [![trophy](https://github-profile-trophy.vercel.app/?username=byunjaewoo)](https://github.com/byunjaewoo/github-profile-trophy)
