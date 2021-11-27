@@ -27,3 +27,5 @@
 * KOI 2019 Silver Award
 * KOI 2020 1st Place!
 * NYPC 2020 Bronze Award
+* KOI 2021 1st Place!
+* NYPC 2021 1st Place!
